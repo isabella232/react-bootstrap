@@ -1,5 +1,5 @@
 {
-  "name": "react-bootstrap",
+  "name": "@namely/react-bootstrap",
   "version": "1.0.0-beta.5",
   "description": "Bootstrap 3 components built with React",
   "repository": {
